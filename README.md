@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEBDEEP-BANERJ2E, a young Web-Developer
 - 👀 I’m interested in Coding, sports, painting, editing, photography.
-- 🌱 I’m currently learning Web Developing
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web App Development Projects
 - 📫 To reach me, mail me at- debdeep3613@gmail.com
 
